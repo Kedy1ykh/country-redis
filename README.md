@@ -1,8 +1,10 @@
 # country-redis
 
-### redis DB 0
+### Changelog
+#### Release 0.1.0 - The first release of country-redis package
+This release contains the following data (sample data) in each db
 ```python
-# sample return data given country id 
+# redis DB 0: sample return data given country id
 "241": {
         "name": "Virgin Islands (British)",
         "iso3": "VGB",
@@ -50,22 +52,13 @@
         "emojiU": "U+1F1FB U+1F1EC",
         "states": []
     }
-```
 
-### redis DB 1
-```python
-# sample return data given country id 
+# redis DB 1: sample return data given country id 
 "1": "afghanistan"
-```
 
-### redis DB 2
-```python
-# sample return data given country name
+# redis DB 2: sample return data given country name
 "belarus": "21"
-```
 
-### redis DB 3
-```python
-# sample return data given a country in iso3 format
+# redis DB 3: sample return data given a country in iso3 format
 "AFG": "1", 
 ```
