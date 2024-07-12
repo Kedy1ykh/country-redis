@@ -1,0 +1,2 @@
+docker_login.sh
+load_data_to_redis.py
