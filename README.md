@@ -1,7 +1,7 @@
 # country-redis
 
 ### Changelog
-#### Release 0.1.0 - The first release of country-redis package
+#### Release 0.1.5 - The first release of country-redis package
 This release contains the following data (sample data) in each db
 ```python
 # redis DB 0: sample return data given country id
